@@ -1,2 +1,2 @@
-# NPL
+# Natural Language Processing (NLP)
 🧐
